@@ -40,13 +40,13 @@
 
 ## 範例演示
 
-<img src="pic/anime.png" alt="anime">
-<img src="pic/1.png" alt="anime">
+<img src="pic/anime.png">
+<img src="pic/1.png">
 
-<img src="pic/2.png" alt="anime">
-<img src="pic/3.png" alt="anime">
-<img src="pic/4.png" alt="anime">
-<img src="pic/5.png" alt="anime">
+<img src="pic/2.png">
+<img src="pic/3.png">
+<img src="pic/4.png">
+<img src="pic/5.png">
 
 ## 執行需求
 
